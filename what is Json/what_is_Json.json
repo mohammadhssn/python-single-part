@@ -1,0 +1,19 @@
+/*
+  MIME : 'application/json'
+  data type: Array, Boolean, String, Number, Object, Null
+*/
+
+// var person   // variable
+
+{
+	"name" : "mohammadhssn",		// string
+	"age" : 21,						// number
+	"is_marrid" : false,			// boolean
+	"Address" : {					// object
+		"country" : "iran",
+		"city" : "shahrood"
+	},
+	"phone" : null,					// null
+	"children" : ["sara", "ali"]	// array
+	
+}

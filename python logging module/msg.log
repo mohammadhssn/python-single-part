@@ -1,0 +1,6 @@
+ERROR:root:mohammadhssn raise a error
+2021-08-01 19:34:35,398-python_logging_module.py-this is a error
+Traceback (most recent call last):
+  File "D:\PYTHON\Python-Single_Part\python logging module\python_logging_module.py", line 31, in <module>
+    print(a['age'])
+KeyError: 'age'

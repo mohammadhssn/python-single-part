@@ -1,0 +1,20 @@
+[
+  {
+    "name": "mohammadhssn",
+    "phone": 9192311248,
+    "married": false
+  },
+  {
+    "name": "sara",
+    "phone": null,
+    "married": true
+  },
+  {
+    "name": "ali",
+    "phone": [
+      12345,
+      9876
+    ],
+    "married": true
+  }
+]
