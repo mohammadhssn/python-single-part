@@ -30,4 +30,3 @@ m[5] = 55
 print(m)
 del m[5]
 print(m[5])  # None
-print(m[5])  # None
